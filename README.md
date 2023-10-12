@@ -21,15 +21,17 @@ We propose implementing a "User-generated Product Reviews and Ratings" feature o
 
 - **Ratings System** : Products will be rated on a scale of 1 to 5 stars, providing a quick reference for potential buyers.
 
-- **Review Moderation** : To maintain the quality and credibility of reviews, we will implement a moderation system to ensure compliance with our guidelines.
-
-- **Verification** : We will develop a system to verify that reviewers are genuine customers who have made a purchase, enhancing the authenticity of reviews.
-
-- **Sorting and Filtering** : Customers can sort and filter reviews based on criteria like "most helpful," "newest," "highest rated," and "lowest rated" to easily find relevant feedback.
-
 - **Aggregate Ratings** : Product pages will prominently display average ratings, providing a snapshot of product quality.
 
-- **Response Mechanism** : Our business will have the ability to respond to customer reviews, addressing concerns, and providing additional information where necessary.
+
+  ### Breadboarding and Fatmarkers:
+  
+<img width="1098" alt="Screenshot 2023-10-11 at 9 31 56 PM" src="https://github.com/afakri/deliv1/assets/61848289/f962f1e7-5079-4ee5-95fe-66d138cb24c3">
+
+
+  <img width="727" alt="Screenshot 2023-10-11 at 9 11 10 PM" src="https://github.com/afakri/deliv1/assets/61848289/e6550234-f823-4e6e-881c-6aac131e9678">
+
+  
 
 
 ## Rabbit Holes:
@@ -40,7 +42,7 @@ We propose implementing a "User-generated Product Reviews and Ratings" feature o
 ## Scope:
 
 - This feature will be rolled out for all product categories on our e-commerce platform.
-- Initially, we will focus on implementing the core functionality of review submission, moderation, and rating display.
-- Further enhancements, such as response mechanisms and incentives, will be considered in subsequent cycles.
+- Initially, we will focus on implementing the core functionality of review submission and rating display.
+- Further enhancements, such as response mechanisms, incentives, sorting and filtering will be considered in subsequent cycles.
 
 ## No Gos (if applicable):
