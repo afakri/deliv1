@@ -26,10 +26,9 @@ We propose implementing a "User-generated Product Reviews and Ratings" feature o
 
   ### Breadboarding and Fatmarkers:
   
-<img width="1098" alt="Screenshot 2023-10-11 at 9 31 56 PM" src="https://github.com/afakri/deliv1/assets/61848289/f962f1e7-5079-4ee5-95fe-66d138cb24c3">
+<img width="682" alt="Screenshot 2023-10-11 at 10 12 16 PM" src="https://github.com/afakri/deliv1/assets/61848289/a15c865e-8e3e-45f4-a7b1-01e082cddb2a">
 
-
-  <img width="727" alt="Screenshot 2023-10-11 at 9 11 10 PM" src="https://github.com/afakri/deliv1/assets/61848289/e6550234-f823-4e6e-881c-6aac131e9678">
+<img width="790" alt="Screenshot 2023-10-11 at 10 12 26 PM" src="https://github.com/afakri/deliv1/assets/61848289/eca9a42c-80a8-40bb-9c6a-e05e583c85a4">
 
   
 
